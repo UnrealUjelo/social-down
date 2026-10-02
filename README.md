@@ -6,6 +6,21 @@ Social Down is a minimal, local-first Android media downloader built with Kotlin
 
 ![Social Down app icon](Icon.png)
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><strong>Home · Dark</strong></td>
+    <td align="center"><strong>Media analysis · Light</strong></td>
+    <td align="center"><strong>Settings · Dark</strong></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/home-dark.png" alt="Social Down home screen in dark mode" width="280"></td>
+    <td><img src="docs/screenshots/analyze-light.png" alt="Social Down media analysis screen in light mode" width="280"></td>
+    <td><img src="docs/screenshots/settings-dark.png" alt="Social Down settings screen in dark mode" width="280"></td>
+  </tr>
+</table>
+
 ## Design concept
 
 The app follows the supplied concept's compact cards, strong blue actions, clear quality rows, and low text density. The production UI includes matching light and dark color systems.
