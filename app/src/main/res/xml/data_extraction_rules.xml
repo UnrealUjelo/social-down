@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="database" path="social_down.db" />
+        <exclude domain="file" path="download-work/" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="file" path="download-work/" />
+    </device-transfer>
+</data-extraction-rules>
