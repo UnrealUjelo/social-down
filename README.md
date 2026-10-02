@@ -2,6 +2,14 @@
 
 Social Down is a minimal, local-first Android media downloader built with Kotlin and Jetpack Compose. Paste a supported, non-DRM media URL, inspect the formats the source actually provides, choose video or audio output, and save it to `Downloads/Social Down`.
 
+## Download
+
+[![Download Social Down APK](https://img.shields.io/badge/Download_Social_Down-v0.1.0-315CF5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/UnrealUjelo/social-down/releases/download/v0.1.0/Social-Down-v0.1.0-debug.apk)
+
+**[Tap here to download the APK directly](https://github.com/UnrealUjelo/social-down/releases/download/v0.1.0/Social-Down-v0.1.0-debug.apk)** · Android 10+ · 260 MB
+
+This testing release is signed with the Android debug key. Android may ask you to allow installs from your browser before installation.
+
 > Only download media that you own or are authorized to save. Social Down does not bypass DRM, paywalls, authentication, or access controls, and downloading may be restricted by a website's terms or applicable law.
 
 ![Social Down app icon](Icon.png)
